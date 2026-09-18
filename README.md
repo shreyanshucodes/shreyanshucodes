@@ -1,40 +1,31 @@
 # Hi, I'm Shreyanshu Srivastava
 
-I build practical software, learn in public, and create resources that help other developers move faster.
+I build practical software, automation, and growth systems for real-world problems.
 
-## Live Apps
+My work sits at the intersection of product, business, and code: I like turning messy workflows into tools that are easier to run, measure, and improve.
 
-- PostPilot India (Live): https://shreyanshucodes.github.io/postpilot-india/
-- PostPilot India (Repo): https://github.com/shreyanshucodes/postpilot-india
+## What I'm building
 
-## What I'm Working On
+- [Career OS](https://github.com/shreyanshucodes/career-os): open-source proof-of-work automation for projects, coding practice, and business experiments
+- [PostPilot India](https://github.com/shreyanshucodes/postpilot-india): a lightweight India Post tracking dashboard for small sellers
+- Digital systems and experiments supporting my family's pharmacy business
+- Developer tools, learning resources, and community-friendly project workflows
 
-- Building useful developer tools and learning projects
-- Sharing notes, roadmaps, and beginner-friendly resources
-- Growing an open source profile around clear documentation and community contribution
+## Current focus
 
-## Featured Projects
+`Python` `JavaScript` `automation` `product thinking` `technical writing` `open source`
 
-| Project | Focus | Status |
-| --- | --- | --- |
-| ProfileForge Lab | GitHub profile analysis and project planning | Starting |
-| Shreyanshu Community Hub | Learning resources and contributor-friendly issues | Starting |
-| Developer Portfolio | Personal portfolio and project showcase | Planned |
+## How I work
 
-## Skills I'm Growing
+- Ship small, testable improvements
+- Document decisions and lessons learned
+- Build for users, not just demos
+- Keep projects approachable for future contributors
 
-- Full-stack web development
-- Open source collaboration
-- Technical writing and documentation
-- AI-assisted software workflows
+## Explore
 
-## Community
+- [My repositories](https://github.com/shreyanshucodes?tab=repositories)
+- [Career OS](https://github.com/shreyanshucodes/career-os)
+- [PostPilot India live app](https://shreyanshucodes.github.io/postpilot-india/)
 
-I want my GitHub to become a place where developers can find useful projects, clear guides, and approachable ways to contribute.
-
-If you are learning, building, or exploring open source, you are welcome here.
-
-## Connect
-
-- GitHub: [@shreyanshucodes](https://github.com/shreyanshucodes)
-- Email: srivastavashreyanshu@gmail.com
+I'm building in public and learning by shipping.
