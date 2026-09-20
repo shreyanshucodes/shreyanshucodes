@@ -1,31 +1,83 @@
-# Hi, I'm Shreyanshu Srivastava
+<div align="center">
 
-I build practical software, automation, and growth systems for real-world problems.
+# Shreyanshu Srivastava
 
-My work sits at the intersection of product, business, and code: I like turning messy workflows into tools that are easier to run, measure, and improve.
+### I build practical software, automation, and product systems.
 
-## What I'm building
+<a href="https://github.com/shreyanshucodes?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+<a href="https://github.com/shreyanshucodes/screen-mirroring-iphone-windows"><img src="https://img.shields.io/badge/Featured_Project-iPhone_Mirror-0ea5e9?style=for-the-badge&logo=apple&logoColor=white" alt="Featured project"></a>
+<a href="https://github.com/shreyanshucodes/career-os"><img src="https://img.shields.io/badge/Building-Career_OS-22c55e?style=for-the-badge&logo=python&logoColor=white" alt="Career OS"></a>
 
-- [Career OS](https://github.com/shreyanshucodes/career-os): open-source proof-of-work automation for projects, coding practice, and business experiments
-- [PostPilot India](https://github.com/shreyanshucodes/postpilot-india): a lightweight India Post tracking dashboard for small sellers
-- Digital systems and experiments supporting my family's pharmacy business
-- Developer tools, learning resources, and community-friendly project workflows
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Automation+that+removes+friction;Tools+that+make+real+work+easier;Learning+in+public%2C+shipping+in+small+steps" alt="Animated introduction">
 
-## Current focus
+</div>
 
-`Python` `JavaScript` `automation` `product thinking` `technical writing` `open source`
+## About Me
 
-## How I work
+I am a builder focused on the space between **software, business, and useful
+execution**. I enjoy taking a messy workflow, understanding what actually
+matters, and turning it into a tool that someone can run, measure, and improve.
 
-- Ship small, testable improvements
-- Document decisions and lessons learned
-- Build for users, not just demos
-- Keep projects approachable for future contributors
+Right now I am working across Python automation, Windows tooling, data
+projects, lightweight dashboards, and digital systems for a family business.
+My goal is simple: build things that are clear enough to use and solid enough
+to keep improving.
 
-## Explore
+```text
+Focus       Python | PowerShell | JavaScript | automation | data workflows
+Mindset     product thinking | documentation | practical iteration
+Currently   building tools, studying systems, and shipping public experiments
+Open to     thoughtful collaboration, useful feedback, and interesting problems
+```
 
-- [My repositories](https://github.com/shreyanshucodes?tab=repositories)
-- [Career OS](https://github.com/shreyanshucodes/career-os)
-- [PostPilot India live app](https://shreyanshucodes.github.io/postpilot-india/)
+## Selected Work
 
-I'm building in public and learning by shipping.
+| Project | What it does |
+| --- | --- |
+| [Career OS](https://github.com/shreyanshucodes/career-os) | A personal operating system for projects, learning, business experiments, and proof of work. |
+| [iPhone Mirror for Windows](https://github.com/shreyanshucodes/screen-mirroring-iphone-windows) | A polished PowerShell wrapper for native iPhone-to-Windows AirPlay mirroring. |
+| [Google Form Generator](https://github.com/shreyanshucodes/google-form-generator) | Generates coherent synthetic datasets for data-science coursework and analysis. |
+| [PostPilot India](https://github.com/shreyanshucodes/postpilot-india) | A focused India Post tracking dashboard for small sellers. |
+
+## The Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/PowerShell-111827?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Data_Workflows-111827?style=flat-square&logo=databricks&logoColor=FF3621" alt="Data workflows">
+  <img src="https://img.shields.io/badge/Documentation-111827?style=flat-square&logo=readthedocs&logoColor=8CA1AF" alt="Documentation">
+</p>
+
+## GitHub Pulse
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyanshucodes&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38bdf8&icon_color=34d399&text_color=94a3b8" alt="GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshucodes&layout=compact&hide_border=true&theme=transparent&title_color=38bdf8&text_color=94a3b8" alt="Top languages">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shreyanshucodes&hide_border=true&background=00000000&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshucodes&bg_color=00000000&color=94a3b8&line=38bdf8&point=34d399&area=true&hide_border=true" alt="GitHub activity graph">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shreyanshucodes/shreyanshucodes/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+</div>
+
+## Around Here
+
+- I prefer small, understandable systems over impressive-looking complexity.
+- I document what I learn so the next iteration starts from a better place.
+- I care about the last mile: setup, defaults, error messages, and whether a
+  real person can use the thing.
+
+<div align="center">
+
+### Build something useful. Make it clearer. Ship the next version.
+
+</div>

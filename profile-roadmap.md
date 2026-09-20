@@ -1,34 +1,12 @@
-# GitHub Profile Roadmap
+# Profile Roadmap
 
-## Goal
+This profile is designed to make the work easy to understand at a glance:
 
-Turn `shreyanshucodes` into a credible, active GitHub profile with useful projects, consistent documentation, and community-friendly contribution paths.
+- **Positioning:** practical software, automation, and product systems
+- **Proof:** focused repositories with clear READMEs and runnable examples
+- **Presentation:** a visual profile README with live GitHub metrics
+- **Consistency:** small, meaningful improvements that are merged into `main`
+- **Community:** useful docs, diagnostics, and contribution-friendly projects
 
-## Phase 1: Foundation
-
-- Create profile README repository named `shreyanshucodes`
-- Add clear personal introduction
-- Pin 3 to 6 strong repositories
-- Use consistent README structure across projects
-
-## Phase 2: Project Depth
-
-- Build one polished portfolio project
-- Build one practical developer tool
-- Build one community/learning repository
-- Add screenshots or demos to every project
-
-## Phase 3: Community Signals
-
-- Add `CONTRIBUTING.md`
-- Add issue templates
-- Label beginner-friendly issues
-- Create a roadmap for each community project
-
-## Phase 4: Proof of Work
-
-- Keep commits consistent
-- Write release notes for useful milestones
-- Add project writeups and lessons learned
-- Share progress publicly
-
+The profile should stay honest: visuals can make the work easier to discover,
+but the projects and their documentation are what make the profile credible.
