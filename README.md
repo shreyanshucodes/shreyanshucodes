@@ -53,7 +53,7 @@ Open to     thoughtful collaboration, useful feedback, and interesting problems
 ## GitHub Pulse
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyanshucodes&hide_border=true&background=00000000&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=shreyanshucodes&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub streak">
 </div>
 
 The contribution calendar below is GitHub's own source of truth. The animation
