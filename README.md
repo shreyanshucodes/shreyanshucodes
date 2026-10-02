@@ -5,7 +5,7 @@
 ### I build practical software, automation, and product systems.
 
 <a href="https://github.com/shreyanshucodes?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
-<a href="https://github.com/shreyanshucodes/screen-mirroring-iphone-windows"><img src="https://img.shields.io/badge/Featured_Project-iPhone_Mirror-0ea5e9?style=for-the-badge&logo=apple&logoColor=white" alt="Featured project"></a>
+<a href="https://shreyanshucodes.github.io/client-pipeline"><img src="https://img.shields.io/badge/Live_App-Client_Pipeline-eab308?style=for-the-badge&logo=trello&logoColor=white" alt="Client Pipeline CRM"></a>
 <a href="https://github.com/shreyanshucodes/career-os"><img src="https://img.shields.io/badge/Building-Career_OS-22c55e?style=for-the-badge&logo=python&logoColor=white" alt="Career OS"></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Automation+that+removes+friction;Tools+that+make+real+work+easier;Learning+in+public%2C+shipping+in+small+steps" alt="Animated introduction">
@@ -34,6 +34,7 @@ Open to     thoughtful collaboration, useful feedback, and interesting problems
 
 | Project | What it does |
 | --- | --- |
+| [Client Pipeline](https://github.com/shreyanshucodes/client-pipeline) ([Live App](https://shreyanshucodes.github.io/client-pipeline)) | Visual drag-and-drop Kanban CRM for freelancers & businesses. Live on GitHub Pages. |
 | [Career OS](https://github.com/shreyanshucodes/career-os) | A personal operating system for projects, learning, business experiments, and proof of work. |
 | [iPhone Mirror for Windows](https://github.com/shreyanshucodes/screen-mirroring-iphone-windows) | A polished PowerShell wrapper for native iPhone-to-Windows AirPlay mirroring. |
 | [Google Form Generator](https://github.com/shreyanshucodes/google-form-generator) | Generates coherent synthetic datasets for data-science coursework and analysis. |
